@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">Logger Test</string>
+
+    <string-array name="activity_my_spinner">
+        <item>OFF</item>
+        <item>SEVERE</item>
+        <item>WARNING</item>
+        <item>INFO</item>
+        <item>CONFIG</item>
+        <item>FINE</item>
+        <item>FINER</item>
+        <item>FINEST</item>
+        <item>ALL</item>
+    </string-array>
+    <string name="activity_my_button">log</string>
+
+</resources>
